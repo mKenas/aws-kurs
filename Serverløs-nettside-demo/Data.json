@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "navn": "Carl Svendsen",
+    "spill": "Fortnite",
+    "score": 80
+  },
+  {
+    "id": "2",
+    "navn": "Sandra Kristiansen",
+    "spill": "Fortnite",
+    "score": 50
+  },
+  {
+    "id": "3",
+    "navn": "Andreas Karlsen",
+    "spill": "Fortnite",
+    "score": 90
+  },
+  {
+    "id": "4",
+    "navn": "Line Lauritzen",
+    "spill": "Fortnite",
+    "score": 70
+  },
+  {
+    "id": "5",
+    "navn": "Peder Bjerga",
+    "spill": "Fortnite",
+    "score": 45
+  },
+  {
+    "id": "6",
+    "navn": "Malene Egeland",
+    "spill": "Fortnite",
+    "score": 92
+  },
+  {
+    "id": "7",
+    "navn": "Anne Hjelmeland",
+    "spill": "Fortnite",
+    "score": 94
+  },
+  {
+    "id": "9",
+    "navn": "Marion Tonning",
+    "spill": "Fortnite",
+    "score": 67
+  },
+  {
+    "id": "9",
+    "navn": "Einar Nilsen",
+    "spill": "Fortnite",
+    "score": 88
+  },
+  {
+    "id": "10",
+    "navn": "Rebecca Synnes",
+    "spill": "Fortnite",
+    "score": 98
+  },
+  {
+    "id": "11",
+    "navn": "Charlotte Simonsen",
+    "spill": "Fortnite",
+    "score": 63
+  }
+]
