@@ -1,0 +1,41 @@
+html {
+  background-image: linear-gradient(to right, #0089d9, #99defa);
+}
+.app {
+  max-width: 500px;
+  margin: 10% auto;
+  border-style: solid;
+  border-color: #333333;
+  border-radius: 12px;
+  background-color: white;
+  font-size: 24px;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  height: 510px;
+  width: 100%;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid #afafaf;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.element {
+  margin: auto 15px;
+}
+
+.title {
+  margin-left: auto;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4.5px;
+  font-size: 35px;
+}
