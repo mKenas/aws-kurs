@@ -86,6 +86,8 @@ Erstatt `API_ENDPOINT` med din `invoke URL` fra API Gateway.
 
 Åpne terminalen og bytt til leaderboard-react-app mappen, `cd Serverløs-nettside-demo/leaderboard-react-app`
 
+kjør `npm run install`.
+
 kjør `npm run build`.
 
 En `build` mappe blir generert.
